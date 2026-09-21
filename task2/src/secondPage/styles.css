@@ -1,0 +1,25 @@
+.header__title {
+  display: flex;
+  justify-content: center;
+  color: darkblue;
+}
+
+.header__text {
+  display: flex;
+  justify-content: center;
+}
+
+.main__table {
+  border-top: darkcyan 10px inset;
+  border-left: yellow 5px inset;
+  border-right: red 8px dashed;
+  border-bottom: green 5px dotted;
+}
+
+ol {
+  list-style-type: lower-greek;
+}
+
+ul {
+  list-style-type: square;
+}

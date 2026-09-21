@@ -1,0 +1,19 @@
+.header__title {
+  display: flex;
+  justify-content: center;
+  color: #23aba4;
+  text-decoration: overline orange;
+}
+
+.main__title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: end;
+  color: darkblue;
+  height: 90vh;
+  width: 25%;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-niR9-uL1hqtOmOwFommpQLKDY5cXhMEuVlQQEEH1kg&s=10");
+  position: absolute;
+  right: 0;
+}
