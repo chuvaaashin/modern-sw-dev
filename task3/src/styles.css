@@ -135,3 +135,25 @@ body {
   justify-content: center;
   font-size: 7rem;
 }
+
+.team_section {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.team_section__card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.team_section__photo {
+  width: 330px;
+  height: 450px;
+}
+
+.team_section__name_title {
+  font-weight: 700;
+}
