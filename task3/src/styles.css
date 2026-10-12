@@ -111,7 +111,7 @@ body {
   flex-direction: column;
   font-weight: 300;
   color: #242121;
-  max-width: 33rem;
+  max-width: 50%;
 }
 
 .peaks_section__right_content {
